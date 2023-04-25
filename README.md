@@ -1,3 +1,5 @@
+!!!这是我在午间凑合来的简单实现，如果对该功能有大量需求，我会完善代码并尝试开PR合并回主分支。使用中有任何问题请及时反馈以便我改进，谢谢！
+
 ## Features
 在X/Y/Z Plot脚本的提示词查找替换功能中，增加了指定整数、小数范围的功能。 Added range support for Prompt S/R in X/Y/Z plot script when applying against integer and float numbers.
 
